@@ -7,8 +7,8 @@
 
 - [x] Tela
 - [x] play de musica
-- [] Botões
-- [] Escolha de musicas
+- [x] Botões
+- [x] Escolha de musicas
 
 
 
